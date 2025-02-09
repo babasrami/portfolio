@@ -1,7 +1,7 @@
 # Rami Babas  
 **Biotechnology Engineer | Deep Learning & Bioinformatics Specialist**  
 📍 Patras, Greece | 📧 babas.rami@gmail.com | 📞 +30 694 292 9474  
-🔗 [LinkedIn](https://linkedin.com/in/ramibabas) | 💻 [GitHub](https://github.com/yourusername)  
+🔗 [LinkedIn](https://linkedin.com/in/ramibabas) | 💻 [GitHub](https://babasrami.github.io/portfolio/)  
 
 ---
 
