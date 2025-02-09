@@ -27,38 +27,44 @@ Dedicated Biotechnology Engineer with expertise in **deep learning**, **laborato
 
 ## 💼 Professional Experience  
 
+### **Next-Generation Sequencing (NGS) Analysis & Pipeline Development**  
+*[2025]*  
+- **RNA A-to-I Editing Analysis**: Built a **Python pipeline** to quantify RNA editing changes in *Drosophila* Mettl3 mutants, performing **statistical analysis** and **visualization** of gene-level editing patterns.  
+- **Germline Variant Calling Pipeline**: Designed a **bioinformatics workflow** using **FreeBayes** for high-accuracy **germline variant detection**, integrating **GRCh38 reference genomes** and **multi-tool consensus** to optimize **VCF/tabular outputs** for large datasets.  
+
 ### **Food Authenticity through Advanced Machine Learning Techniques**  
 **Master’s Thesis in Food Quality and Chemistry of Natural Products**  
-*[04/2024 – 06/2024]*  
-- Applied **machine learning algorithms** (supervised and unsupervised) to enhance food authenticity verification.  
-- Integrated **CNNs** and **electronic noses** for detecting fruit freshness and verifying meat authenticity.  
-- Delivered solutions for **quality control**, **safety assurance**, and combating food fraud.  
+*[04/2024 – 07/2024]*  
+- Applied **machine learning algorithms** (supervised and unsupervised) to enhance **food authenticity verification**.  
+- Integrated **CNNs** and **electronic noses** for detecting **fruit freshness** and verifying **meat authenticity**.  
+- Delivered solutions for **quality control**, **safety assurance**, and combating **food fraud**, advancing food science.  
 
 ### **High-Precision Diagnostic System Using Deep Learning**  
 **Master’s Thesis in Health Biotechnology**  
 *[01/2023 – 07/2023]*  
-- Developed a high-accuracy diagnostic system using **CNNs** in Python for complex pattern recognition.  
+- Developed a **high-accuracy diagnostic system** using **CNN** in Python for complex **pattern recognition**.  
 - Achieved **100% accuracy** in binary and **98.44%** in multi-class classification.  
-- Demonstrated expertise in **computational modeling**, **data analysis**, and validation with biomedical applications.  
+- Demonstrated expertise in **computational modeling**, **data analysis**, and **validation** with biomedical applications.  
 
 ### **Workshop Participant**  
 **Biotechnology Research Center (CRBt)**  
 *[03/2023 – 04/2023]*  
-- Conducted **cell culture experiments**, mastering sterilization and microscopic analysis.  
+- Conducted **cell culture experiments**, mastering **sterilization** and **microscopic analysis**.  
 - Fabricated **microfluidic devices** with high accuracy for experimental applications.  
-- Collaborated in team settings, enhancing interpersonal and technical problem-solving abilities.  
+- Collaborated in **team settings**, enhancing **interpersonal** and **technical problem-solving abilities**.  
 
 ### **Pharmaceutical Industry Intern**  
 **SNC Officinal Boufama**  
 *[05/2022 – 07/2022]*  
-- Managed pharmaceutical equipment operations and supervised packaging processes to ensure **quality assurance**.  
-- Applied **bioinformatics tools** for detailed data analysis and reporting, improving process efficiency.  
+- Managed **pharmaceutical equipment operations** and supervised **packaging processes** to ensure **quality assurance**.  
+- Applied **bioinformatics tools** for **detailed data analysis** and reporting, improving **process efficiency**.  
+- Strengthened skills in **process oversight** and **attention to detail** through hands-on tasks.  
 
 ### **Medical Laboratory Intern**  
 **Abdallah Chaoui Polyclinic (Hospital)**  
 *[04/2021 – 06/2021]*  
-- Performed lab tests and processed samples, ensuring accurate results and **quality control**.  
-- Gained proficiency in advanced equipment handling and informatics tools.  
+- Performed **lab tests** and **processed samples**, ensuring **accurate results** and **quality control**.  
+- Gained proficiency in **advanced equipment handling** and **informatics tools**.
 
 ---
 
