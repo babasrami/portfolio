@@ -86,8 +86,8 @@ ANSYS, Mathematica, Maple, ChemDraw, Gaussian.
 
 ## 🌐 Languages  
 - **Arabic**: Fluent  
-- **English**: B2  
-- **French**: B2  
+- **English**: Advanced  
+- **French**: Advanced
 
 ---
 
